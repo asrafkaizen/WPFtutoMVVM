@@ -1,0 +1,17 @@
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\bin\Debug\MVVMtuto.exe.config
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\bin\Debug\MVVMtuto.exe
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\bin\Debug\MVVMtuto.pdb
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\obj\Debug\MVVMtuto.csprojAssemblyReference.cache
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\obj\Debug\View\MainWindow.baml
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\obj\Debug\MainWindow.g.cs
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\obj\Debug\View\MainWindow.g.cs
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\obj\Debug\App.g.cs
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\obj\Debug\MVVMtuto_MarkupCompile.cache
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\obj\Debug\MVVMtuto_MarkupCompile.lref
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\obj\Debug\MainWindow.baml
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\obj\Debug\MVVMtuto.g.resources
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\obj\Debug\MVVMtuto.Properties.Resources.resources
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\obj\Debug\MVVMtuto.csproj.GenerateResource.cache
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\obj\Debug\MVVMtuto.csproj.CoreCompileInputs.cache
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\obj\Debug\MVVMtuto.exe
+C:\Users\asraf\source\repos\MVVMtuto\MVVMtuto\obj\Debug\MVVMtuto.pdb
